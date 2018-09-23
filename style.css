@@ -7,7 +7,7 @@ body{
     position: absolute;
     width: 330px;
     height: 300px;
-    top: 50px;
+    top: 100px;
     left: 50px;
     padding: 50px;
     background: #6178ff;
@@ -76,11 +76,82 @@ body{
     left: 106px;
 }
 
+.main2{
+    position: absolute;
+    width: 330px;
+    height: 300px;
+    left: 530px;
+    top: 100px;
+    padding: 50px;
+    background: #6178ff;
+    box-shadow: dimgray 1px 1px;
+}
+
+#c{
+    position: absolute;
+    background-color: crimson;
+    font-family: "SF UI Text";
+    font-size: 35px;
+    color: ivory;
+    width: 170px;
+    top: 120px;
+    left: 105px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#u2{
+    position: absolute;
+    background-color: crimson;
+    font-family: "SF UI Text";
+    font-size: 35px;
+    color: ivory;
+    top: 170px;
+    width: 170px;
+    left:105px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#t{
+    position: absolute;
+    background-color: crimson;
+    font-family: "SF UI Text";
+    font-size: 35px;
+    color: ivory;
+    top: 220px;
+    width: 170px;
+    left:105px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#calc2{
+    position: absolute;
+    background-color: crimson;
+    font-family: "SF UI Text";
+    font-size: 35px;
+    color: ivory;
+    top: 270px;
+    padding: 8px;
+    box-shadow: dimgray 1px 1px 3px;
+    width: 200px;
+    left: 106px;
+}
+
 h1{
     position: absolute;
     color: ivory;
     font-family: "SF UI Text";
-    font-size: 35px;
+    font-size: 25px;
     top: 50px;
+    text-align: center;
     width: 330px;
+}
+h2{
+    position: absolute;
+    font-family: "SF UI Text";
+    font-size: 35px;
+    color: #6178ff;
+    left: 100px;
 }
